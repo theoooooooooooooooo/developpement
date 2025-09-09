@@ -61,28 +61,6 @@ class HomePage extends StatelessWidget {
               ],
             ),
           ),
-      //     Container(
-      //       height: 50,
-      //     ),
-      //     Container(
-      //       color: Colors.black,
-      //       child: Row(
-      //         children: [
-      //           Image.asset(
-      //             'assets/images/sinners.webp',
-      //             width: 200,
-      //             height: 200,
-      //             fit: BoxFit.cover,
-      //           ),
-      //           Text(
-      //             "test2",
-      //             style: TextStyle(
-      //               color: Colors.white, 
-      //             ),
-      //           )
-      //         ],
-      //       ),
-      //     ),   
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
