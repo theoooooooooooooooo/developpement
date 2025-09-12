@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:movieapplication/views/DynamiqueHome.dart';
 import 'package:movieapplication/views/Home.dart';
 
 void main() {
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      home: HomePage(),
+      // home: HomePage(),
+      home: Dynamiquehome(),
     );
   }
 }
